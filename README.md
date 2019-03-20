@@ -13,7 +13,7 @@ Click the button below to deploy from the portal:
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Faaronlafferty%2FSOFS%2Fmaster%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
-<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Faaronlafferty%2FSOFS%2Fmaster%2F%azuredeploy.json" target="_blank">
+<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Faaronlafferty%2FSOFS%2Fmaster%2Fazuredeploy.json" target="_blank">
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
@@ -32,9 +32,3 @@ Click the button below to deploy from the portal:
 
 
 Tags: ``cluster, ha, storage spaces, storage spaces direct, S2D, windows server 2016, ws2016``
-
-
-https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F301-storage-spaces-direct%2Fazuredeploy.json
-
-https%3A%2F%2Fraw.githubusercontent.com%2Faaronlafferty%2FSOFS%2Fmaster%2Fazuredeploy.json
-
