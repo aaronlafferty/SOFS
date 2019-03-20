@@ -33,3 +33,8 @@ Click the button below to deploy from the portal:
 
 Tags: ``cluster, ha, storage spaces, storage spaces direct, S2D, windows server 2016, ws2016``
 
+
+https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F301-storage-spaces-direct%2Fazuredeploy.json
+
+https%3A%2F%2Fraw.githubusercontent.com%2Faaronlafferty%2FSOFS%2Fmaster%2Fazuredeploy.json
+
