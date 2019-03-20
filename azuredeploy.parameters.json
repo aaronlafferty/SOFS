@@ -6,13 +6,13 @@
       "value": "GEN-UNIQUE-8"
     },
     "existingDomainName": {
-      "value": "contoso.com"
+      "value": "bwocr.net"
     },
     "adminUsername": {
-      "value": "AzureAdmin"
+      "value": "LocalAdmin"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "LetsMigrate2019!"
     },
     "existingVirtualNetworkName": {
       "value": "vnet01"

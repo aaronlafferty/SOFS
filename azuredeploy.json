@@ -28,7 +28,7 @@
       "metadata": {
         "description": "Size of the S2D VMs to be created"
       },
-      "defaultValue": "Standard_DS1_v2"
+      "defaultValue": "Standard_D16s_v3"
     },
     "vmCount": {
       "type": "int",
@@ -42,20 +42,20 @@
     "vmDiskSize": {
       "type": "int",
       "minValue": 128,
-      "maxValue": 1023,
+      "maxValue": 4095,
       "metadata": {
         "description": "Size of each data disk in GB on each S2D VM (Min=128, Max=1023)"
       },
-      "defaultValue": 1023
+      "defaultValue": 4095
     },
     "vmDiskCount": {
       "type": "int",
-      "minValue": 2,
+      "minValue": 4,
       "maxValue": 32,
       "metadata": {
         "description": "Number of data disks on each S2D VM (Min=2, Max=32). Ensure that the VM size you've selected will support this number of data disks."
       },
-      "defaultValue": 2
+      "defaultValue": 4
     },
     "existingDomainName": {
       "type": "string",
